@@ -23,3 +23,4 @@ For my first project the main components are to:
 4. Make an HTML file to showcase my work
 5. Write a report on the project
 
+**Thank you!**
